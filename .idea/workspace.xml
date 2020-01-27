@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29284bbf-7c1a-4213-b0e7-bb9ae38a62ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VpALBKaE4RkUKCG4vHS1pW900i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/me/dapac/javatests" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="me.dapac.javatests.movies.data" />
+      <recent name="me.dapac.javatests.movies.service" />
+      <recent name="me.dapac.javatests.fizzbuzz" />
+      <recent name="me.dapac.javatests.discounts" />
+      <recent name="me.dapac.javatests.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/sql-scripts" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.dapac.javatests.movies.data" />
+      <recent name="me.dapac.javatests.movies.model" />
+      <recent name="me.dapac.javatests.payments" />
+      <recent name="me.dapac.javatests.player" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MovieRepositoryIntegrationTest">
+    <configuration name="MovieRepositoryIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javastest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dapac.javatests.movies.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.dapac.javatests.movies.data" />
+      <option name="MAIN_CLASS_NAME" value="me.dapac.javatests.movies.data.MovieRepositoryIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieRepositoryIntegrationTest.insert_a_movie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javastest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dapac.javatests.movies.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.dapac.javatests.movies.data" />
+      <option name="MAIN_CLASS_NAME" value="me.dapac.javatests.movies.data.MovieRepositoryIntegrationTest" />
+      <option name="METHOD_NAME" value="insert_a_movie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieRepositoryIntegrationTest.load_all_movies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javastest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dapac.javatests.movies.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.dapac.javatests.movies.data" />
+      <option name="MAIN_CLASS_NAME" value="me.dapac.javatests.movies.data.MovieRepositoryIntegrationTest" />
+      <option name="METHOD_NAME" value="load_all_movies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieRepositoryIntegrationTest.load_movie_by_id" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javastest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dapac.javatests.movies.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.dapac.javatests.movies.data" />
+      <option name="MAIN_CLASS_NAME" value="me.dapac.javatests.movies.data.MovieRepositoryIntegrationTest" />
+      <option name="METHOD_NAME" value="load_movie_by_id" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieRepositoryIntegrationTest.load_movie_by_name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javastest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dapac.javatests.movies.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.dapac.javatests.movies.data" />
+      <option name="MAIN_CLASS_NAME" value="me.dapac.javatests.movies.data.MovieRepositoryIntegrationTest" />
+      <option name="METHOD_NAME" value="load_movie_by_name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MovieRepositoryIntegrationTest" />
+        <item itemvalue="JUnit.MovieRepositoryIntegrationTest.load_movie_by_name" />
+        <item itemvalue="JUnit.MovieRepositoryIntegrationTest.load_all_movies" />
+        <item itemvalue="JUnit.MovieRepositoryIntegrationTest.insert_a_movie" />
+        <item itemvalue="JUnit.MovieRepositoryIntegrationTest.load_movie_by_id" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29284bbf-7c1a-4213-b0e7-bb9ae38a62ae" name="Default Changelist" comment="" />
+      <created>1577939604666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577939604666</updated>
+      <workItem from="1577939607965" duration="1693000" />
+      <workItem from="1578168174456" duration="734000" />
+      <workItem from="1578593010847" duration="562000" />
+      <workItem from="1578832910789" duration="28000" />
+      <workItem from="1579665327096" duration="1305000" />
+      <workItem from="1579726683767" duration="15000" />
+      <workItem from="1579748852722" duration="8605000" />
+      <workItem from="1579798934414" duration="3631000" />
+      <workItem from="1580006190276" duration="283000" />
+      <workItem from="1580006497627" duration="13073000" />
+      <workItem from="1580055896792" duration="11779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="256" y="795" width="800" height="675" key="#Notifications" timestamp="1577939637272">
+      <screen x="0" y="0" width="1366" height="1536" />
+    </state>
+    <state x="256" y="795" width="800" height="675" key="#Notifications/0.0.1366.1536@0.0.1366.1536" timestamp="1577939637272" />
+    <state x="275" y="45" width="800" height="675" key="#Project_Structure" timestamp="1580007847050">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="275" y="45" width="800" height="675" key="#Project_Structure/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580007847050" />
+    <state x="275" y="45" width="800" height="675" key="#SQL_Dialects" timestamp="1580056989180">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="275" y="45" width="800" height="675" key="#SQL_Dialects/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580056989180" />
+    <state x="828" y="92" width="374" height="579" key="#com.intellij.ide.util.MemberChooser" timestamp="1580063925891">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="832" y="116" width="374" height="560" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1579755464573" />
+    <state x="828" y="92" width="374" height="579" key="#com.intellij.ide.util.MemberChooser/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580063925891" />
+    <state x="775" y="250" width="498" height="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579753566891">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="775" y="250" width="498" height="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1366.741@0.27.1366.741" timestamp="1579753566891" />
+    <state x="437" y="0" width="476" height="766" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580006670788">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="437" y="0" width="476" height="766" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580006670788" />
+    <state width="1316" height="220" key="GridCell.Tab.0.bottom" timestamp="1580095717014">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1316" height="280" key="GridCell.Tab.0.bottom/0.0.1366.1536@0.0.1366.1536" timestamp="1577940860568" />
+    <state width="1316" height="188" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1579760116379" />
+    <state width="1310" height="231" key="GridCell.Tab.0.bottom/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580064763083" />
+    <state width="1316" height="186" key="GridCell.Tab.0.bottom/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1579799850297" />
+    <state width="1316" height="220" key="GridCell.Tab.0.bottom/0.768.1366.768/0.27.1360.741@0.27.1360.741" timestamp="1580095717014" />
+    <state width="1316" height="220" key="GridCell.Tab.0.center" timestamp="1580095717013">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1316" height="280" key="GridCell.Tab.0.center/0.0.1366.1536@0.0.1366.1536" timestamp="1577940860567" />
+    <state width="1316" height="188" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1579760116378" />
+    <state width="1310" height="231" key="GridCell.Tab.0.center/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580064763068" />
+    <state width="1316" height="186" key="GridCell.Tab.0.center/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1579799850296" />
+    <state width="1316" height="220" key="GridCell.Tab.0.center/0.768.1366.768/0.27.1360.741@0.27.1360.741" timestamp="1580095717013" />
+    <state width="1316" height="220" key="GridCell.Tab.0.left" timestamp="1580095717013">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1316" height="280" key="GridCell.Tab.0.left/0.0.1366.1536@0.0.1366.1536" timestamp="1577940860567" />
+    <state width="1316" height="188" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1579760116378" />
+    <state width="1310" height="231" key="GridCell.Tab.0.left/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580064763068" />
+    <state width="1316" height="186" key="GridCell.Tab.0.left/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1579799850296" />
+    <state width="1316" height="220" key="GridCell.Tab.0.left/0.768.1366.768/0.27.1360.741@0.27.1360.741" timestamp="1580095717013" />
+    <state width="1316" height="220" key="GridCell.Tab.0.right" timestamp="1580095717013">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state width="1316" height="280" key="GridCell.Tab.0.right/0.0.1366.1536@0.0.1366.1536" timestamp="1577940860567" />
+    <state width="1316" height="188" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1579760116379" />
+    <state width="1310" height="231" key="GridCell.Tab.0.right/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580064763069" />
+    <state width="1316" height="186" key="GridCell.Tab.0.right/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1579799850297" />
+    <state width="1316" height="220" key="GridCell.Tab.0.right/0.768.1366.768/0.27.1360.741@0.27.1360.741" timestamp="1580095717013" />
+    <state x="487" y="334" width="382" height="124" key="ReplaceDuplicatesPrompt" timestamp="1580019265945">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="487" y="334" width="382" height="124" key="ReplaceDuplicatesPrompt/0.768.1366.768/0.27.1360.741@0.27.1360.741" timestamp="1580019265945" />
+    <state x="161" y="19" key="SettingsEditor" timestamp="1580063043089">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="161" y="19" key="SettingsEditor/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580063043089" />
+    <state x="442" y="176" width="471" height="441" key="chooseDestDirectoryDialog" timestamp="1579752578895">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="442" y="176" width="471" height="441" key="chooseDestDirectoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1579752578895" />
+    <state x="337" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1580055904249">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="338" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1579726695304" />
+    <state x="337" y="205" key="com.intellij.ide.util.TipDialog/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580055904249" />
+    <state x="338" y="973" key="com.intellij.ide.util.TipDialog/0.768.1366.768/0.0.1360.768@0.768.1366.768" timestamp="1580006500122" />
+    <state x="688" y="50" width="662" height="693" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579753473351">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="688" y="50" width="662" height="693" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1579753473351" />
+    <state x="434" y="182" width="545" height="584" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580058246794">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="436" y="857" width="483" height="615" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.1536@0.0.1366.1536" timestamp="1577939829735" />
+    <state x="436" y="440" width="529" height="325" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1366.741@0.27.1366.741" timestamp="1579756265907" />
+    <state x="434" y="182" width="545" height="584" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580058246794" />
+    <state x="434" y="203" width="563" height="562" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.768.1366.768/0.27.1360.741@0.27.1360.741" timestamp="1580012790112" />
+    <state x="416" y="141" width="574" height="514" key="extract.method.dialog" timestamp="1580019264190">
+      <screen x="0" y="27" width="1360" height="741" />
+    </state>
+    <state x="416" y="141" width="574" height="514" key="extract.method.dialog/0.768.1366.768/0.27.1360.741@0.27.1360.741" timestamp="1580019264190" />
+    <state x="346" y="64" width="672" height="703" key="search.everywhere.popup" timestamp="1580059074967">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="346" y="64" width="672" height="703" key="search.everywhere.popup/0.768.1366.768/0.0.1360.768@0.0.1360.768" timestamp="1580059074967" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.768.1366.768/0.27.1360.741@0.27.1360.741" timestamp="1580017511995" />
+  </component>
+</project>
